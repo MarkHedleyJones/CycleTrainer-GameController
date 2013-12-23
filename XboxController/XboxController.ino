@@ -1,7 +1,7 @@
 
 #include < avr/io.h >
 #include < avr/interrupt.h >
-#include < TimerOne.h >
+#include <TimerOne.h>
 
 
 /************************************** SENSOR INPUT PIN DEFINITIONS **/
